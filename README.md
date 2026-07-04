@@ -78,7 +78,7 @@ A machine learning-based fraud detection system for identifying suspicious finan
 
 - LinkedIn: www.linkedin.com/in/bhumika-dolnare
 - GitHub: https://github.com/BhumikaDolnare01
-- Email: your-email@example.com
+- Email: dolnarebhumika@gmail.com
 
 ---
 
